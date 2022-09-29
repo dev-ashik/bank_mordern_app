@@ -1,7 +1,7 @@
 import React from "react";
 import styles from "../style";
 import { arrowUp } from "../assets";
-import './style.css';
+import "./style.css";
 
 const GetStarted = () => (
   <div
